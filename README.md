@@ -3,7 +3,7 @@ About r-sinaplot
 
 Home: https://CRAN.R-project.org/package=sinaplot
 
-Package license: GPL (>= 2)
+Package license: GPL-2.0-or-later
 
 Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sinaplot-feedstock/blob/main/LICENSE.txt)
 

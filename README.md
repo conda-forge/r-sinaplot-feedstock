@@ -1,11 +1,11 @@
-About r-sinaplot
-================
+About r-sinaplot-feedstock
+==========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sinaplot-feedstock/blob/main/LICENSE.txt)
 
 Home: https://CRAN.R-project.org/package=sinaplot
 
 Package license: GPL-2.0-or-later
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/r-sinaplot-feedstock/blob/main/LICENSE.txt)
 
 Summary: The sinaplot is a data visualization chart suitable for plotting any single variable in a multiclass data set. It is an enhanced jitter strip chart, where the width of the jitter is controlled by the density distribution of the data within each class.
 
